@@ -4,3 +4,4 @@ main: cc.wumpus.wstafflunaraddon.LunarAddon
 api-version: '1.20'
 depend:
   - Apollo-Bukkit
+  - wStaff
